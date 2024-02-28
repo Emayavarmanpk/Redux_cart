@@ -21,7 +21,7 @@
 
 
 ## Website
-<a href="https://reduxcartfsd.netlify.app/" target="_blank">Preview</a>
+<a href="https://redux-cart-gold.vercel.app/" target="_blank">Preview</a>
 
 ## Setup
 <p>Following are the requirements to run this project:</p>
